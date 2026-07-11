@@ -1,0 +1,4 @@
+interface:
+  display_name: "Creator Copilot"
+  short_description: "Plan stronger streams and create more from every broadcast."
+  default_prompt: "Use $creator-copilot to choose the most useful next action for my Twitch or YouTube creator work."

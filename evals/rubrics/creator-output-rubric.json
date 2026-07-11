@@ -1,0 +1,18 @@
+{
+  "scale": {"minimum": 1, "maximum": 5},
+  "dimensions": [
+    "creator_fit",
+    "platform_fit",
+    "actionability",
+    "prioritization",
+    "evidence_transparency",
+    "workload_realism",
+    "voice_preservation",
+    "artifact_usefulness",
+    "uncertainty_calibration"
+  ],
+  "release_target": {
+    "average_minimum": 4.0,
+    "dimension_floor": 3.5
+  }
+}
