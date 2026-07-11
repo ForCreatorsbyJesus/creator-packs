@@ -1,0 +1,4 @@
+interface:
+  display_name: "Creator Copilot"
+  short_description: "Prepare streams, multiply content, and learn what works."
+  default_prompt: "Help me prepare my next stream and create Tonight's Stream Packet."
