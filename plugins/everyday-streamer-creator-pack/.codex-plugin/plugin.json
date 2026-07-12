@@ -1,6 +1,19 @@
 {
   "name": "everyday-streamer-creator-pack",
   "version": "0.1.0",
+  "description": "An AI creator support team for everyday livestreamers.",
+  "author": {
+    "name": "For Creators by Jesus"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Everyday Streamer Creator Pack",
+    "shortDescription": "Plan streams, multiply content, and learn what works.",
+    "longDescription": "A practical creator companion that helps everyday livestreamers prepare stronger streams, turn each stream into more content, and improve from evidence over time.",
+    "developerName": "For Creators by Jesus",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Help me prepare my next stream and create Tonight's Stream Packet."
   "description": "An AI creator support team for planning stronger streams, creating more from every broadcast, and improving each week.",
   "author": {
     "name": "ForCreatorsbyJesus",
