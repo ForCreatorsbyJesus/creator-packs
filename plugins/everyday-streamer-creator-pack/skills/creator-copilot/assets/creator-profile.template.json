@@ -1,0 +1,15 @@
+{
+  "schema_version": "0.1.0",
+  "creator_id": "creator-local-id",
+  "niches": [],
+  "audience_promise": null,
+  "primary_platform": null,
+  "secondary_platforms": [],
+  "primary_objective": null,
+  "weekly_creator_hours": null,
+  "stream_cadence": null,
+  "team_size": 1,
+  "voice_preferences": [],
+  "guardrails": [],
+  "provenance": {}
+}

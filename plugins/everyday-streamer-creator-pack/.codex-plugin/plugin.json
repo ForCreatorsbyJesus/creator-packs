@@ -14,5 +14,27 @@
     "category": "Productivity",
     "capabilities": [],
     "defaultPrompt": "Help me prepare my next stream and create Tonight's Stream Packet."
+  "description": "An AI creator support team for planning stronger streams, creating more from every broadcast, and improving each week.",
+  "author": {
+    "name": "ForCreatorsbyJesus",
+    "url": "https://github.com/ForCreatorsbyJesus"
+  },
+  "homepage": "https://github.com/ForCreatorsbyJesus/creator-packs",
+  "repository": "https://github.com/ForCreatorsbyJesus/creator-packs",
+  "license": "MIT",
+  "keywords": ["creators", "streaming", "twitch", "youtube", "creator-tools"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Everyday Streamer Creator Pack",
+    "shortDescription": "Plan stronger streams and create more from every broadcast.",
+    "longDescription": "An AI creator support team for Twitch and YouTube creators who want practical help preparing streams, repurposing broadcasts, reviewing results, and choosing what to do next.",
+    "developerName": "ForCreatorsbyJesus",
+    "category": "Productivity",
+    "capabilities": ["Interactive", "Write"],
+    "defaultPrompt": [
+      "Help me prepare tonight's stream.",
+      "Turn this stream into YouTube content.",
+      "Review my last stream and choose what to test next."
+    ]
   }
 }
